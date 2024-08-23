@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge Oehrens</h1>
 <h3 align="center">A passionate full stack developer from Chile</h3>
 
-- 👾 Interested in **blockchain and web3**
+- 👾 Interested in **software development and web3**
 
 - 🥳 I’m interest to collaborate on **projects**
 
