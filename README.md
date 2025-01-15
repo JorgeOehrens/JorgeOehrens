@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jorge Oehrens</h1>
 <h3 align="center">A passionate full stack developer from Chile</h3>
 
-- 👾 Interested in **software, app mobile and Website development**
+- 👾 Enthusiastic about building software, crafting mobile apps, and designing engaging websites.
+
 
 - 🥳 I’m interest to collaborate on **projects**
 
