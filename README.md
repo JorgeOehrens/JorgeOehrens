@@ -39,7 +39,6 @@
 - 🤖 Me obsesiona la **IA aplicada**: agentes, LLMs y automatización que resuelven problemas reales.
 - 🎓 Actualmente desarrollando **Educari**, una plataforma educativa para preparación PAES en Chile.
 - 🥳 Siempre abierto a **colaborar en proyectos** interesantes.
-- 🍌 **Me gustaría ir al evento Platanus!**
 
 ### 🌐 Mi trabajo
 
