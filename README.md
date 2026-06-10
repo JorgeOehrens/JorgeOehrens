@@ -35,9 +35,8 @@
 
 ### 🚀 Sobre mí
 
-- 🛠️ Construyo plataformas full-stack de punta a punta — del schema de la DB hasta el frontend.
-- 🤖 Me obsesiona la **IA aplicada**: agentes, LLMs y automatización que resuelven problemas reales.
-- 🎓 Actualmente desarrollando **Educari**, una plataforma educativa para preparación PAES en Chile.
+- 🛠️ Plataformas full-stack de punta a punta
+- 🤖 **IA aplicada**: agentes, LLMs y automatización que resuelven problemas reales.
 - 🥳 Siempre abierto a **colaborar en proyectos** interesantes.
 
 ### 🌐 Mi trabajo
