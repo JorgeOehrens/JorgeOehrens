@@ -16,7 +16,7 @@
 <h1 align="center">Hola 👋, soy Jorge Oehrens</h1>
 
 <p align="center">
-  Founder & Full-Stack Developer 🇨🇱 · construyendo productos con IA aplicada
+  Founder & Full-Stack Developer 🇨🇱 · construyendo productos con IA 
 </p>
 
 <p align="center">
