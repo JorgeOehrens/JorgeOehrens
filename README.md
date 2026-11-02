@@ -13,7 +13,7 @@
   ───────────────────────────────────────────────────────────────────────────
 -->
 
-<h1 align="center">Hi 👋, I’m Jorge Oehrens</h1>
+<h1 align="center">Hi 👋 I’m Jorge Oehrens</h1>
 
 <p align="center">
   Software Engineer | Product Engineer | Building AI & Digital Products
