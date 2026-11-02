@@ -16,7 +16,7 @@
 <h1 align="center">Hola 👋, soy Jorge Oehrens</h1>
 
 <p align="center">
-  Founder & Full-Stack Developer 🇨🇱 · construyendo productos con IA 
+  Ingeniero de software 🇨🇱 · construyendo productos con IA 
 </p>
 
 <p align="center">
@@ -43,15 +43,3 @@
 
 - 🔗 **Portfolio:** [jorge5.dev](https://www.jorge5.dev/)
 - 📫 **Contacto:** jorge.oehrens@gmail.com
-
-### 🧰 Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
-</p>
