@@ -13,10 +13,10 @@
   ───────────────────────────────────────────────────────────────────────────
 -->
 
-<h1 align="center">Hola 👋, soy Jorge Oehrens</h1>
+<h1 align="center">Hi 👋, i´m Jorge Oehrens</h1>
 
 <p align="center">
-  Ingeniero de software 🇨🇱 · construyendo productos con IA 
+  Software Engineer | Product Engineer | Building AI & Digital Products
 </p>
 
 <p align="center">
@@ -33,13 +33,10 @@
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About me
 
-- 🛠️ Plataformas full-stack de punta a punta
-- 🤖 **IA aplicada**: agentes, LLMs y automatización que resuelven problemas reales.
-- 🥳 Siempre abierto a **colaborar en proyectos** interesantes.
+- 🛠️ Software/Product Engineer, focus on build new digital products, features and improvements
 
-### 🌐 Mi trabajo
-
+### 🌐 My work
 - 🔗 **Portfolio:** [jorge5.dev](https://www.jorge5.dev/)
-- 📫 **Contacto:** jorge.oehrens@gmail.com
+- 📫 **Contact:** jorge.oehrens@gmail.com
