@@ -39,5 +39,3 @@
 
 ### 🌐 Links 
 - 🔗 **Portfolio:** [jorge5.dev](https://www.jorge5.dev/)
-- 📫 **Contact:** jorge.oehrens@gmail.com
-- 📫 **Contact:** +569 50653521
